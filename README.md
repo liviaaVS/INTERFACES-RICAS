@@ -13,3 +13,20 @@ Realize o merge do pull request na branch principal de desenvolvimento.
 Siga as orientações do Github Flow com mensagens adequadas no commit utilizando os links em anexo.
 
 ````
+
+> ## Guia de como nomear issues, branchs e commits no projeto "Gambiarra"
+
+#### Como devo nomear minha issuo? 🤔
+---
+##### 1° Passo:
+| Deve usar uma linguagem objetiva e clara das atividades a serem realizadas naquela tarefa. 
+
+##### 2° Passo:
+
+| Faça o uso da linguagem `imperativa`
+    _Exemplo_: 
+``"Corrigir erro na validação do formulário de login"``
+
+``"Adicionar opção de filtro por data na listagem de pedidos"``
+
+``"Remover opções duplicadas no menu de configuração"``

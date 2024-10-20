@@ -30,3 +30,13 @@ Siga as orientações do Github Flow com mensagens adequadas no commit utilizand
 ``"Adicionar opção de filtro por data na listagem de pedidos"``
 
 ``"Remover opções duplicadas no menu de configuração"``
+
+
+### Como devo nomear minha branch? 🤔
+
+
+`N° da issue seguida do seu nome`
+exemplo:
+
+    1-minha-primeira-issuo
+

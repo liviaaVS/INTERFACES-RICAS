@@ -16,7 +16,7 @@ Siga as orientações do Github Flow com mensagens adequadas no commit utilizand
 
 > ## Guia de como nomear issues, branchs e commits no projeto "Gambiarra"
 
-### Como devo nomear minha issuo? 🤔
+### Como devo nomear minha issue? 🤔
 ---
 ##### 1° Passo:
 | Deve usar uma linguagem objetiva e clara das atividades a serem realizadas naquela tarefa. 

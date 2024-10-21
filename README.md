@@ -26,7 +26,7 @@ Siga as orientações do Github Flow com mensagens adequadas no commit utilizand
 | Faça o uso da linguagem `imperativa`:
 
 
-    _Exemplo_: 
+_Exemplos_: 
 ``"Corrigir erro na validação do formulário de login"``
 
 ``"Adicionar opção de filtro por data na listagem de pedidos"``

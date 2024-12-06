@@ -4,14 +4,23 @@ test('Fatorial de 5', () => {
   expect(fatorial(5)).toBe(120);
 });
 
+test('Fatorial de 0', () => {
+  expect(fatorial(0)).toBe(1);
+});
 
-test('Should throw exception: Fatorial de 0 ou menor ', () => {
+test('Fatorial de 1', () => {
+  expect(fatorial(1)).toBe(1);
+});
+
+
+test('Should throw exception: Fatorial numeros menores que 0 ', () => {
+  for (let x = -10; x <= -1; x++) {
     try {
-      fatorial(0)
-      fatorial(-1)
+      fatorial(x)
     } catch (e) {
       expect(e.message).toBe('Number is not valid');
     }
+  }
 });
 
 test('Fatorial de 10 a 20', () => {

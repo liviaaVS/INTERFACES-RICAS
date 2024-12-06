@@ -5,7 +5,6 @@ function fatorial (e){
     }
     return e
 }
-console.log(5)
 
 module.exports = fatorial;
 
